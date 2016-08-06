@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+title: "Tongyun Wu's Website"
+description: "Tongyun Wu's blog,use Jekyll and github pages."
+keywords: "Tongyun Wu,Tony Wu,wutongy,blog,Jekyll,github,gh-pages"
 
 baseurl: "/"
 url: "http://www.jack003.com"
@@ -14,27 +14,27 @@ img_path: 'http://www.jack003.com/static/img/blog'
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
+  name: 'Tony'
+  first_name: 'Tongyun'
+  last_name: 'Wu'
+  email: 'tongyun.wu@columbia.edu'
+  facebook_username: 'Tongyun Wu'
+  github_username: 'wutongy'
   head_img: 'static/img/landing/Jack.jpg'
 
 # social link
-jingyu:
-  first_name: 'Yu'
-  last_name: 'Jing'
-  description: 'Painter.'
-  link: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+#jingyu:
+#  first_name: 'Yu'
+#  last_name: 'Jing'
+#  description: 'Painter.'
+#  link: 'http://angular.jack003.com'
+#  email: '805963294@qq.com'
 
 # landing page
 landing:
   home: 'Home'
   about: 'About'
-  career: 'Career'
+  career: 'Education'
   skills: 'Skills'
   projects: 'Project'
   blog: 'Blog'
@@ -66,16 +66,16 @@ index:
   life: 'Life'
 
 # donate
-donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
+#donate:
+#  wechat: 'static/img/pay/wechat.png'
+#  alipay: 'static/img/pay/alipay.png'
 
 # comment
 changyan:
   # appid: cysfY7ULn
   # conf: prod_861928934cecb7a18e15bedaed9dae29
 disqus:
-  name: jalpc
+  name: wutongy
   public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # share
